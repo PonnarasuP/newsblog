@@ -1,0 +1,14 @@
+# .gitignore for Python/Vercel
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+ENV/
+build/
+dist/
+.eggs/
+*.egg-info/
+news_data.json
